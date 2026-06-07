@@ -977,7 +977,7 @@ function pt(t) {
     }
 }
 const dt = "https://raw.githubusercontent.com/hxehex/russia-mobile-internet-whitelist/main/ipwhitelist.txt"
-  , ht = "https://raw.githubusercontent.com/serggend/russia-mobile-internet-whitelist/refs/heads/main/yandex-ip-find.txt";
+  , ht = "https://raw.githubusercontent.com/WallD3v/ru-whitelist-check/refs/heads/main/white.txt";
 let F = null
   , M = null;
 async function Ne(t) {
